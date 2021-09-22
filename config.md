@@ -1,27 +1,30 @@
 <!--
-Add here global page variables to use throughout your website.
+Add here global page variables to use throughout your
+website.
+The website_* must be defined for the RSS to work
 -->
-+++
-def author = "Ifihanagbara Olusheye"
-def prepath = "julians"
+@def generate_rss = true
+@def website_title = "Julians weekly meetup"
+@def website_descr = "Weekly meetings on everything Julia."
+@def website_url   = "https://ifihan.github.io/julians"
 
-def mintoclevel = 2
+@def author = "Ifihanagbara Olusheye"
+@def prepath = "julians"
 
-# Add here files or directories that should be ignored by Franklin, otherwise
-# these files might be copied and, if markdown, processed by Franklin which
-# you might not want. Indicate directories by ending the name with a `/`.
-# Base files such as LICENSE.md and README.md are ignored by default.
-ignore = ["node_modules/"]
-
-# RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = true
-website_title = "Julians weekly meetup"
-website_descr = "Weekly meetings on Julia."
-website_url   = "https://ifihan.github.io/julians/"
-+++
+@def mintoclevel = 2
 
 <!--
-Add here global latex commands to use throughout your pages.
+Add here files or directories that should be ignored by Franklin, otherwise
+these files might be copied and, if markdown, processed by Franklin which
+you might not want. Indicate directories by ending the name with a `/`.
+-->
+@def ignore = ["node_modules/", "franklin", "franklin.pub"]
+
+<!--
+Add here global latex commands to use throughout your
+pages. It can be math commands but does not need to be.
+For instance:
+* \newcommand{\phrase}{This is a long phrase to copy.}
 -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
