@@ -1,0 +1,4 @@
+Sitemap: https://ifihan.github.io/julians/sitemap.xml
+
+User-agent: *
+Disallow:
