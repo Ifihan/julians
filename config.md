@@ -17,7 +17,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Julians weekly meetup"
 website_descr = "Weekly meetings on Julia."
-website_url   = "ifihan.github.io/julians"
+website_url   = "https://ifihan.github.io/julians/"
 +++
 
 <!--
