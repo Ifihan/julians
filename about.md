@@ -6,6 +6,6 @@
 </center>
 ~~~
 
-Hi!! \\
+Hi!!👋 \\
 
 My name is Ifihanagbara Olusheye, a Python and Julia Developer. 
