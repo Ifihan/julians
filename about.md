@@ -8,4 +8,4 @@
 
 Hi!!👋 \\
 
-My name is Ifihanagbara Olusheye, a Python and Julia Developer. 
+My name is Ifihanagbara Olusheye, a Python/Julia developer and Technical Writer. I have passion for tech communities and new technologies. 

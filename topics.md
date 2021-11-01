@@ -15,39 +15,30 @@ The topics for each week is based on the book [Think Julia](https://www.oreilly.
   </tr>
   <tr>
     <td>2</td>
-    <td>Variables, Expressions, and Statements.</td>
+    <td>Variables, Expressions, Statements, and Functions.</td>
   </tr>
     <tr>
     <td>3</td>
-    <td>Functions.</td>
+    <td>Case Study: Interface Design, Conditionals and Recursion.</td>
   </tr>
     <tr>
     <td>4</td>
-    <td>Case Study: Interface Design.</td>
+    <td>Fruitful Functions and Iteration.</td>
   </tr>
     <tr>
     <td>5</td>
-    <td>Conditionals and Recursion.</td>
+    <td>Strings, Case Study: Word Play.</td>
   </tr>
     <tr>
     <td>6</td>
-    <td>Fruitful Functions.</td>
+    <td>Arrays, Dictionaries, Tuples, Case Study: Data Structure Selection.</td>
   </tr>
     <tr>
     <td>7</td>
-    <td>Iteration.</td>
+    <td>Files, Structs and Objects, Structs and Functions.</td>
   </tr>
     <tr>
     <td>8</td>
-    <td>Strings.</td>
-  </tr>
-    <tr>
-    <td>9</td>
-    <td>Case Study: Word Play.</td>
-  </tr>
-    <tr>
-    <td>10</td>
-    <td>Arrays.</td>
-  </tr>
+    <td>Debugging.</td>
 </table>
 ~~~
