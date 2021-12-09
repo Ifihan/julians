@@ -27,18 +27,18 @@ The topics for each week is based on the book [Think Julia](https://www.oreilly.
   </tr>
     <tr>
     <td>5</td>
-    <td>Strings, Case Study: Word Play.</td>
+    <td>Chapters 8 - 13.</td>
   </tr>
     <tr>
     <td>6</td>
-    <td>Arrays, Dictionaries, Tuples, Case Study: Data Structure Selection.</td>
+    <td>Chapters 14 - 19.</td>
   </tr>
     <tr>
     <td>7</td>
-    <td>Files, Structs and Objects, Structs and Functions.</td>
+    <td>Chapter 20 & 21, brief introduction to various applications of Julia.</td>
   </tr>
     <tr>
     <td>8</td>
-    <td>Debugging.</td>
+    <td>Building static website with Franklin.jl.</td>
 </table>
 ~~~
